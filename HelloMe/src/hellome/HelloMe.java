@@ -22,6 +22,7 @@ public class HelloMe {
         for(int i =0; i < 10; i++){
             System.out.println(i);
         }
+        System.out.println("Test");
         // TODO code application logic here
     }
     
