@@ -16,6 +16,12 @@ public class HelloMe {
      */
     public static void main(String[] args) {
         System.out.println("Hello Me");
+        
+        System.out.println("My Edits to Branch!");
+        System.out.println("Hello Ali!");
+        for(int i =0; i < 10; i++){
+            System.out.println(i);
+        }
         // TODO code application logic here
     }
     
